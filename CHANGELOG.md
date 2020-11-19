@@ -1,3 +1,10 @@
+## [0.4.2](https://github.com/azimqordoba/github-hooks-trial/compare/v0.4.1...v0.4.2) (2020-11-19)
+
+### Bug Fixes
+
+- remove comments ([5ae91b9](https://github.com/azimqordoba/github-hooks-trial/commit/5ae91b9ad11d5991e2dc2136d0caeae712dd22ea))
+- updates changelog ([6d5d997](https://github.com/azimqordoba/github-hooks-trial/commit/6d5d99727e59f53208e9f143cdda147bc3dd5339))
+
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
