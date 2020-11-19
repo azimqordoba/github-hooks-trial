@@ -1,6 +1,6 @@
 {
   "name": "github-hooks-trial",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "trial out various github hooks",
   "main": "index.js",
   "repository": "git@github.com:azimqordoba/github-hooks-trial.git",
@@ -8,11 +8,17 @@
   "license": "MIT",
   "scripts": {
     "build": "uglifyjs --compress --mangle -- index.js",
+    "test": "eslint --ext .js .",
+    "test:format": "eslint --fix --ext .js .",
     "start": "node index.js",
     "release": "standard-version -a && git push --follow-tags origin main"
   },
   "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
     "standard-version": "^9.0.0",
     "uglify-js": "^3.11.6"
-  }
+  },
+  "dependencies": {}
 }
