@@ -1,3 +1,5 @@
+import { square, multiply } from './calc';
+
 const hello = function () {
   return 'hellow';
 };
@@ -10,4 +12,9 @@ const showMessage = () => {
 
   return message;
 };
+
 showMessage();
+
+square(100);
+
+multiply([1, 2, 3]);
