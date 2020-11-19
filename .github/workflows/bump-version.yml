@@ -19,6 +19,7 @@ jobs:
       name: Release
       uses: ridedott/release-me-action@master
       with:
+        release-branches: '["main"]'  
         node-module: true
     - name: Setup Node.js
       uses: actions/setup-node@v1
