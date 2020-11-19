@@ -1,6 +1,6 @@
 {
   "name": "github-hooks-trial",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "trial out various github hooks",
   "main": "index.js",
   "repository": "git@github.com:azimqordoba/github-hooks-trial.git",
