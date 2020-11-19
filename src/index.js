@@ -1,5 +1,6 @@
 import { square, multiply } from './calc';
 
+// add comments
 const showEsLintLoveMessage = () => {
   let message = 'I love ESLint';
   message += 'dummy';
