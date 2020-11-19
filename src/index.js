@@ -6,14 +6,14 @@ const hello = function () {
 
 hello();
 
-const showMessage = () => {
+const showEsLintLoveMessage = () => {
   let message = 'I love ESLint';
   message += 'dummy';
 
   return message;
 };
 
-showMessage();
+showEsLintLoveMessage();
 
 square(100);
 
