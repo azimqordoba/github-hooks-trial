@@ -6,7 +6,7 @@ name: Node.js Package
 on:
   push:
     branches:
-      - feat/github-hooks
+      - main
 
 jobs:
   build:
@@ -17,5 +17,5 @@ jobs:
         with:
           node-version: 12
       - run: yarn
-      - run: yarn test
+      - run: yarn build
 
