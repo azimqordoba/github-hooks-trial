@@ -1,11 +1,5 @@
 import { square, multiply } from './calc';
 
-const hello = function () {
-  return 'hellow';
-};
-
-hello();
-
 const showEsLintLoveMessage = () => {
   let message = 'I love ESLint';
   message += 'dummy';
