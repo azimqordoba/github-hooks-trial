@@ -7,13 +7,15 @@
   "author": "Azim Saiyed <azim@qordoba.com>",
   "license": "MIT",
   "scripts": {
-    "build": "uglifyjs --compress --mangle -- index.js",
+    "build": "babel src -d dist",
     "test": "eslint --ext .js .",
     "test:format": "eslint --fix --ext .js .",
     "start": "node index.js",
     "release": "standard-version -a && git push --follow-tags origin main"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
     "eslint": "^7.13.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
