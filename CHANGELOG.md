@@ -1,3 +1,10 @@
+## [0.4.1](https://github.com/azimqordoba/github-hooks-trial/compare/v0.4.0...v0.4.1) (2020-11-19)
+
+### Bug Fixes
+
+- add comments ([d46eb7d](https://github.com/azimqordoba/github-hooks-trial/commit/d46eb7d0e37d3e1c3421af4a508385392df3b66c))
+- deployment ([9889e10](https://github.com/azimqordoba/github-hooks-trial/commit/9889e10bf76dc0fdfe241dfda890859b61168c46))
+
 # [0.4.0](https://github.com/azimqordoba/github-hooks-trial/compare/v0.3.1...v0.4.0) (2020-11-19)
 
 ### Bug Fixes
