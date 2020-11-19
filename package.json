@@ -1,0 +1,15 @@
+{
+  "name": "github-hooks-trial",
+  "version": "0.0.1",
+  "description": "trial out various github hooks",
+  "main": "index.js",
+  "repository": "git@github.com:azimqordoba/github-hooks-trial.git",
+  "author": "Azim Saiyed <azim@qordoba.com>",
+  "license": "MIT",
+  "scripts": {
+    "release": "standard-version -a && git push --follow-tags origin main"
+  },
+  "devDependencies": {
+    "standard-version": "^9.0.0"
+  }
+}
