@@ -7,9 +7,12 @@
   "author": "Azim Saiyed <azim@qordoba.com>",
   "license": "MIT",
   "scripts": {
+    "build": "uglifyjs --compress --mangle -- index.js",
+    "start": "node index.js",
     "release": "standard-version -a && git push --follow-tags origin main"
   },
   "devDependencies": {
-    "standard-version": "^9.0.0"
+    "standard-version": "^9.0.0",
+    "uglify-js": "^3.11.6"
   }
 }
