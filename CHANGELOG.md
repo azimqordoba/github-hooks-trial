@@ -1,3 +1,12 @@
+## [0.2.1](https://github.com/azimqordoba/github-hooks-trial/compare/0.2.0...0.2.1) (2020-11-19)
+
+
+### Bug Fixes
+
+* remove helloworld message ([97677e7](https://github.com/azimqordoba/github-hooks-trial/commit/97677e7397756651ca01550b073a631fe9fbe26d))
+
+
+
 # [0.2.0](https://github.com/azimqordoba/github-hooks-trial/compare/0.1.0...0.2.0) (2020-11-19)
 
 
