@@ -1,3 +1,12 @@
+## [0.2.2](https://github.com/azimqordoba/github-hooks-trial/compare/0.2.1...0.2.2) (2020-11-19)
+
+
+### Bug Fixes
+
+* updates deployment script ([5d22374](https://github.com/azimqordoba/github-hooks-trial/commit/5d22374d9c9169b7ef060eb7bfe0efef3614be24))
+
+
+
 ## [0.2.1](https://github.com/azimqordoba/github-hooks-trial/compare/0.2.0...0.2.1) (2020-11-19)
 
 
