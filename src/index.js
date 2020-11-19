@@ -1,13 +1,13 @@
-const hello = function (a) {
-  console.log('Hello ! how are you ? ');
+const hello = function () {
+  return 'hellow';
 };
 
 hello();
 
 const showMessage = () => {
-  const message = 'I love ESLint';
-  for (let i = 0; i < 5; i++) {
-    console.log(message);
-  }
+  let message = 'I love ESLint';
+  message += 'dummy';
+
+  return message;
 };
 showMessage();
