@@ -1,0 +1,31 @@
+name: Pre Release Script
+on:
+  push:
+    branches:
+      - feat/github-hooks
+    paths-ignore:
+      - 'package.json'
+      - 'CHANGELOG.md'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - name: yarn install and build
+        run: |
+          yarn install
+          yarn build
+      - env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        name: Release
+        uses: ridedott/release-me-action@master
+        with:
+          node-module: true
+          commit-assets: |
+            ./dist
