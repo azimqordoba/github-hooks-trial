@@ -10,7 +10,7 @@ steps:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     uses: ridedott/release-me-action@master
     with:
-      release-branches: '[{"name":"beta","prerelease":"beta"}]',
+      release-branches: '[{"name":"beta","prerelease":"beta"}]'
   - name: Setup Node.js
     uses: actions/setup-node@v1
     with:
