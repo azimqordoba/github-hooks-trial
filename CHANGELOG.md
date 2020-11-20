@@ -1,3 +1,23 @@
+## [0.4.3-beta.1](https://github.com/azimqordoba/github-hooks-trial/compare/v0.4.2...v0.4.3-beta.1) (2020-11-20)
+
+### Bug Fixes
+
+- js ([94e4377](https://github.com/azimqordoba/github-hooks-trial/commit/94e43771b8ecd572167433091e168ba2c15477e8))
+
+### Other
+
+- Update pre-release.yml ([2f2fbbf](https://github.com/azimqordoba/github-hooks-trial/commit/2f2fbbf175b1f902719ce230ac29d6dc35303af7))
+- Update pre-release.yml ([95a1ed3](https://github.com/azimqordoba/github-hooks-trial/commit/95a1ed33b1eee2ddecbc724a7da1711e3f59423a))
+- Update pre-release.yml ([0da39f3](https://github.com/azimqordoba/github-hooks-trial/commit/0da39f30bb84c377ded5317a203bf527af042f45))
+- Update pre-release.yml ([f36d271](https://github.com/azimqordoba/github-hooks-trial/commit/f36d2719825ac997d4f4087d9458425566b10ff2))
+- Update index.js ([7e54c66](https://github.com/azimqordoba/github-hooks-trial/commit/7e54c664138e0cef82ff61a23d96782fa3d465d3))
+- Update pre-release.yml ([77da7ee](https://github.com/azimqordoba/github-hooks-trial/commit/77da7eef28b1e05593da8b2cbf8322bf4d73bb1c))
+- Update pre-release.yml ([0022ae8](https://github.com/azimqordoba/github-hooks-trial/commit/0022ae81d831c7bd53b8c195175da4eaa7778927))
+- Update pre-release.yml ([8165d92](https://github.com/azimqordoba/github-hooks-trial/commit/8165d92eaa09afd402189a294948e0007d9dd09c))
+- Update pre-release.yml ([c1762ac](https://github.com/azimqordoba/github-hooks-trial/commit/c1762ac6ec6c139948215507683a4f0c664c6a9f))
+- Update pre-release.yml ([a2622ed](https://github.com/azimqordoba/github-hooks-trial/commit/a2622ed446c125f2adbb8569c69bbcd56edb4d03))
+- Create pre-release.yml ([d02b72a](https://github.com/azimqordoba/github-hooks-trial/commit/d02b72aa3304dea3cddb7b4d9c8fe6d90f864b6c))
+
 ## [0.4.2](https://github.com/azimqordoba/github-hooks-trial/compare/v0.4.1...v0.4.2) (2020-11-19)
 
 ### Bug Fixes
