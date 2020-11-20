@@ -1,6 +1,6 @@
 import { square, multiply } from './calc';
 
-// commmit 
+// commmit something
 const showEsLintLoveMessage = () => {
   let message = 'I love ESLint';
   message += 'dummy';
