@@ -1,3 +1,15 @@
+## [0.4.3-beta.2](https://github.com/azimqordoba/github-hooks-trial/compare/v0.4.3-beta.1...v0.4.3-beta.2) (2020-11-20)
+
+### Bug Fixes
+
+- adds prettierrc ([fc70e7f](https://github.com/azimqordoba/github-hooks-trial/commit/fc70e7faa015bd3351409ac6e60e0e508447dd2f))
+
+### Other
+
+- updatess ([0ba415e](https://github.com/azimqordoba/github-hooks-trial/commit/0ba415eea046a83955eac47c63a3983e869c0583))
+- update ([04bef71](https://github.com/azimqordoba/github-hooks-trial/commit/04bef71191c690f497463fc9757f486a6d5625b0))
+- new release script !!!! ([a56ff62](https://github.com/azimqordoba/github-hooks-trial/commit/a56ff62173a9ad283b3961da51490f30c00d6b41))
+
 ## [0.4.3-beta.1](https://github.com/azimqordoba/github-hooks-trial/compare/v0.4.2...v0.4.3-beta.1) (2020-11-20)
 
 ### Bug Fixes
