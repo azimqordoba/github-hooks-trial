@@ -2,7 +2,7 @@ name: Pre Release Script
 on:
   push:
     branches:
-      - feat/github-hooks
+      - beta
     paths-ignore:
       - 'package.json'
       - 'CHANGELOG.md'
