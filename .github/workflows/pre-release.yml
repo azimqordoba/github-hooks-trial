@@ -3,23 +3,20 @@ on:
   push:
     branches:
       - beta
-    paths-ignore:
-      - 'package.json'
-      - 'CHANGELOG.md'
-jobs:
-  build:
-    runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.ACCESS_TOKEN }}
-      - env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        name: Release
-        uses: ridedott/release-me-action@master
-        with:
-          release-branches: '["+([0-9])?(.{+([0-9]),x}).x","master","next","next-major",{"name":"beta","prerelease":"beta"},{"name":"alpha","prerelease":"alpha"}]'
-          node-module: true
-          commit-assets: |
-            ./dist
+steps:
+  - name: Beta release
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    uses: ridedott/release-me-action@master
+    with:
+      release-branches: '[{"name":"beta","prerelease":"beta"}]',
+  - name: Setup Node.js
+    uses: actions/setup-node@v1
+    with:
+      registry-url: "https://npm.pkg.github.com"
+  - name: Publish to GitHub Packages
+    env:
+      NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN_WORKAROUND }}
+    run: |
+      npm publish --tag=beta
