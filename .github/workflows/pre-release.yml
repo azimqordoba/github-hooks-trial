@@ -27,7 +27,7 @@ jobs:
         name: Release
         uses: ridedott/release-me-action@master
         with:
-          release-branches: '["feat/github-hooks", {"name":"feat/github-hooks","prerelease": "true"}]'
+          release-branches: '["master", {"name":"beta","prerelease": "beta"}]'
           node-module: true
           commit-assets: |
             ./dist
@@ -36,7 +36,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           registry-url: "https://npm.pkg.github.com/Qordobacode"
-          
+
       - name: Publish to GitHub Packages
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
