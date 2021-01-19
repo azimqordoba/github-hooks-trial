@@ -3,6 +3,7 @@ import { square, multiply } from './calc';
 const showEsLintLoveMessage = () => {
   let message = 'I love ESLint';
   message += 'dummy';
+  let somthing;
 
   return message;
 };
