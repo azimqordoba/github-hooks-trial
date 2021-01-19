@@ -13,4 +13,4 @@ square(100);
 
 multiply([1, 2, 3]);
 
-console.log('something');
+console.log('something goodddd');
