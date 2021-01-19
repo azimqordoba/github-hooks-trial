@@ -1,3 +1,18 @@
+## [0.4.3](https://github.com/azimqordoba/github-hooks-trial/compare/v0.4.2...v0.4.3) (2021-01-19)
+
+### Chores
+
+- adds eslintchecker ([f5152da](https://github.com/azimqordoba/github-hooks-trial/commit/f5152da3669f9ff760bc81fe81b12b55bff48490))
+
+### Other
+
+- Update index.js ([15c8ac9](https://github.com/azimqordoba/github-hooks-trial/commit/15c8ac90725b071f80ef4220013c77119c8aad6f))
+- Update index.js ([d9bb60a](https://github.com/azimqordoba/github-hooks-trial/commit/d9bb60aef8fcb4808b26cc6d1bf4edba6fae0ca1))
+- Create npm-publish.yml ([18737b9](https://github.com/azimqordoba/github-hooks-trial/commit/18737b9e9fbe683420c99dcf1caab6161903f8b3))
+- Create stale.yml ([86fe712](https://github.com/azimqordoba/github-hooks-trial/commit/86fe712b96dd8a35603676a2d32de1ab6c4027bc))
+- Update pre-release.yml ([a2622ed](https://github.com/azimqordoba/github-hooks-trial/commit/a2622ed446c125f2adbb8569c69bbcd56edb4d03))
+- Create pre-release.yml ([d02b72a](https://github.com/azimqordoba/github-hooks-trial/commit/d02b72aa3304dea3cddb7b4d9c8fe6d90f864b6c))
+
 ## [0.4.2](https://github.com/azimqordoba/github-hooks-trial/compare/v0.4.1...v0.4.2) (2020-11-19)
 
 ### Bug Fixes
