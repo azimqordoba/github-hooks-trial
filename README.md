@@ -1,3 +1,3 @@
 # github-hooks-trial
 
-test 2
+test 
