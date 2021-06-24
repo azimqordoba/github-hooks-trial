@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbe83a29-2e29-4769-b684-4b3c39091e48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/scripts/delete-branches.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nIH6Lp7HRDCrGGVcZpoA8kccLj" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbe83a29-2e29-4769-b684-4b3c39091e48" name="Default Changelist" comment="" />
+      <created>1611070508310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611070508310</updated>
+      <workItem from="1611070509390" duration="2960000" />
+      <workItem from="1611079079495" duration="1676000" />
+    </task>
+    <task id="LOCAL-00001" summary="chore: adds eslintchecker">
+      <created>1611070696830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611070696830</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1611070834850</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611070834851</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update2">
+      <created>1611070957299</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611070957299</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update3">
+      <created>1611071265302</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611071265302</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updates">
+      <created>1611071565555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611071565555</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updates">
+      <created>1611071700046</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611071700046</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: adds eslintchecker" />
+    <MESSAGE value="update" />
+    <MESSAGE value="update2" />
+    <MESSAGE value="update3" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2426" y="88" key="CommitChangelistDialog2" timestamp="1611071699952">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2426" y="88" key="CommitChangelistDialog2/0.23.1920.992/1920.23.1920.1057@1920.23.1920.1057" timestamp="1611071699952" />
+    <state x="2597" y="217" key="VCS.ChangeListViewerDialog" timestamp="1611071490115">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2597" y="217" key="VCS.ChangeListViewerDialog/0.23.1920.992/1920.23.1920.1057@1920.23.1920.1057" timestamp="1611071490115" />
+    <state x="2508" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611071702499">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2508" y="253" key="Vcs.Push.Dialog.v2/0.23.1920.992/1920.23.1920.1057@1920.23.1920.1057" timestamp="1611071702499" />
+    <state x="2615" y="268" width="586" height="490" key="find.popup" timestamp="1611081044582">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2615" y="268" width="586" height="490" key="find.popup/0.23.1920.992/1920.23.1920.1057@1920.23.1920.1057" timestamp="1611081044582" />
+    <state x="2573" y="240" width="670" height="676" key="search.everywhere.popup" timestamp="1611070814046">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2573" y="240" width="670" height="676" key="search.everywhere.popup/0.23.1920.992/1920.23.1920.1057@1920.23.1920.1057" timestamp="1611070814046" />
+  </component>
+</project>
