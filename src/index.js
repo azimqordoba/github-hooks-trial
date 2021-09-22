@@ -1,6 +1,8 @@
 import { square, multiply } from './calc';
 
-  const a;
+  const ax;
+
+const b = 4;
 
 
 const showEsLintLoveMessage = () => {
