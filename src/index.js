@@ -1,5 +1,8 @@
 import { square, multiply } from './calc';
 
+  const a;
+
+
 const showEsLintLoveMessage = () => {
   let message = 'I love ESLint';
   message += 'dummy';
@@ -14,3 +17,5 @@ square(100);
 multiply([1, 2, 3]);
 
 console.log('something');
+
+const 
