@@ -7,3 +7,10 @@ export const addAll = (arr) => arr.reduce((result, val) => result + val, 1);
 function azim () { 
   const a;
 }
+
+return a;
+
+
+ let a = 1;
+
+console.log(a == 1)
